@@ -11,3 +11,7 @@ com2 = computer('ryzen 3',8)
 
 com1.config()
 com2.config()
+
+
+
+# output is i5
